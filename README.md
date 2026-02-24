@@ -1,4 +1,4 @@
-<img src="bkoimett (1).png" alt="Koimett Benjamin Banner" width="100%" />
+<img src="" alt="Ivy Imoh Banner" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bkoimett&color=blueviolet" alt="Profile views" />
