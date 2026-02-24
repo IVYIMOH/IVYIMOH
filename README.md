@@ -82,8 +82,8 @@ When I’m not in the IDE, I’m exploring the latest research in LLMs or optimi
 
 ## 📬 Let’s Connect
 
-📧 **[Your Email Here]** 🌐 [Portfolio coming soon...]  
-🐦 [Twitter/X Handle]  
+📧 **[ivyimoh@gmail.com]** 🌐 [Portfolio coming soon...]  
+🐦 [@i_veemoh]  
 
 ---
 
